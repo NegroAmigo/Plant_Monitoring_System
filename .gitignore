@@ -3,4 +3,7 @@ firmware/esp32_plant_monitor/.vscode/.browse.c_cpp.db*
 firmware/esp32_plant_monitor/.vscode/c_cpp_properties.json
 firmware/esp32_plant_monitor/.vscode/launch.json
 firmware/esp32_plant_monitor/.vscode/ipch
-firmware/esp32_plant_monitor/.gitignore
+firmware/esp32_plant_monitor/.pio/
+firmware/esp32_plant_monitor/.vscode/
+*.db
+*.db-journal
