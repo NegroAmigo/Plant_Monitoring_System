@@ -7,3 +7,4 @@ firmware/esp32_plant_monitor/.pio/
 firmware/esp32_plant_monitor/.vscode/
 *.db
 *.db-journal
+firmware/esp32_plant_monitor/src/esp32_plant_monitor.code-workspace
