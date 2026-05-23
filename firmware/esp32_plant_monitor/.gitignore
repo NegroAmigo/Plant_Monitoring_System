@@ -4,6 +4,7 @@
 .vscode/launch.json
 .vscode/ipch
 
-src\esp32_plant_monitor.code-workspace
+src/esp32_plant_monitor.code-workspace
 
-private_env.ini
+
+./private_env.ini
