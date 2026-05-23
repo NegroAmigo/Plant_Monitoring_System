@@ -5,6 +5,4 @@
 .vscode/ipch
 
 src/esp32_plant_monitor.code-workspace
-
-
 ./private_env.ini
